@@ -1,0 +1,42 @@
+Topic :
+
+https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODU5NzIzMDEwODkwMTQx?igshid=r40sxegqwlhm&story_media_id=2317019253313689320_9670990202
+
+Resources:
+
+
+
+1. https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c
+
+2. http://cda.psych.uiuc.edu/statistical_learning_course/Jolliffe%20I.%20Principal%20Component%20Analysis%20(2ed.,%20Springer,%202002)(518s)_MVsa_.pdf
+
+3. https://www.analyticsvidhya.com/blog/2016/03/pca-practical-guide-principal-component-analysis-python/
+
+4. https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0
+
+Extra:
+
+https://www.coursera.org/learn/pca-machine-learning
+https://arxiv.org/ftp/arxiv/papers/1403/1403.2877.pdf#:~:text=The%20dimensionality%20reduction%20can%20be,a%20combination%20of%20the%20input
+Dimension Reduction: A Guided Tour PDF here: http://research.microsoft.com/pubs/150728/FnT_dimensionReduction.pdf
+
+Papers:
+
+[1] http://cseweb.ucsd.edu/~dasgupta/papers/jl-tr.ps
+[2] http://web.mit.edu/cocosci/Papers/sci_reprint.pdf
+[3] http://www.mitpressjournals.org/doi/abs/10.1162/089976603321780317
+[4]David Donoho titled "High Dimensional Data Analysis: on the Curses and Blessings of Dimensionality".
+[5]http://www-stat.stanford.edu/~donoho/Lectures/AMS2000/Curses.pdf
+[6]http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf
+
+
+Extra Reading :
+
+[1] http://www.cs.columbia.edu/~jebara/6772/papers/TR2000-42.pdf
+[2] http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.136.8364
+[3] http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.7319&rep=rep1&type=pdf
+[4] http://www.mitpressjournals.org/doi/abs/10.1162/089976698300017467
+[5] http://portal.acm.org/citation.cfm?id=1015330.1015345
+[6] http://www.cs.columbia.edu/~jebara/papers/aistatsMVE07.pdf
+
+Reference: Advanced Machine Learning course materials by Tony Jebara: http://www.cs.columbia.edu/~jebara/6772/solutions.html
